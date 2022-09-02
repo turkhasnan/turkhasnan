@@ -7,7 +7,7 @@ WHERE name = "Turk Hasnan"
 ```
 | name | pronouns | bio | social_media | prog_lang | data_tools | fun_fact
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Turk Hasnan ⚡️| He/Him 😄| I love finding creative ways to resolve problems with data-driven solutions. 🔭| [LinkedIn](https://www.linkedin.com/in/turkhasnan/) 🌐| Python, R, Java 👨🏻‍💻| SQL, MySQL, PostgreSQL, Tableau, Excel, Google Sheets, BigQuery 💻| I am a professional choreographer/dancer 🕺🏻|
+| Turk Hasnan ⚡️| He/Him 😄| I love finding creative ways to resolve problems with data-driven solutions. 🔭| [LinkedIn](https://www.linkedin.com/in/turkhasnan/) 🌐| Python, R, Java 👨🏻‍💻| SQL, MySQL, PostgreSQL, Tableau, Excel, JSON, Google Sheets, BigQuery 💻| I am a professional choreographer/dancer 🕺🏻|
 
 
 
